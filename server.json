@@ -1,0 +1,320 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3,
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "black"
+        }
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": 38
+        },
+        {
+          "id": 2,
+          "size": 39
+        },
+        {
+          "id": 3,
+          "size": 40
+        },
+        {
+          "id": 4,
+          "size": 41
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "amount": 4,
+      "colors": [
+        {
+          "id": 1,
+          "color": "purple"
+        },
+        {
+          "id": 2,
+          "color": "pink"
+        }
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": 36
+        },
+        {
+          "id": 2,
+          "size": 38
+        },
+        {
+          "id": 3,
+          "size": 40
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "amount": 2,
+      "colors": [
+        {
+          "id": 1,
+          "color": "black"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        }
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": 38
+        },
+        {
+          "id": 2,
+          "size": 39
+        },
+        {
+          "id": 3,
+          "size": 40
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "amount": 7,
+      "colors": [
+        {
+          "id": 1,
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        }
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": 38
+        },
+        {
+          "id": 2,
+          "size": 39
+        },
+        {
+          "id": 3,
+          "size": 40
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "amount": 5,
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "white"
+        },
+        {
+          "id": 3,
+          "color": "black"
+        }
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": 38
+        },
+        {
+          "id": 2,
+          "size": 39
+        },
+        {
+          "id": 3,
+          "size": 40
+        },
+        {
+          "id": 4,
+          "size": 41
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "amount": 10,
+      "colors": [
+        {
+          "id": 1,
+          "color": "yellow"
+        },
+        {
+          "id": 2,
+          "color": "black"
+        },
+        {
+          "id": 3,
+          "color": "white"
+        }
+      ],
+      "sizes": [
+        {
+          "id": 1,
+          "size": 34
+        },
+        {
+          "id": 2,
+          "size": 35
+        },
+        {
+          "id": 3,
+          "size": 36
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis popular 01",
+      "price": 129.9,
+      "thumb": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_detalhe1.jpg?ts=1612440481?ims=280x280",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 2,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 3,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        }
+      ],
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Tênis popular 02",
+      "price": 159.9,
+      "thumb": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_detalhe1.jpg?ts=1612440481?ims=280x280",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 2,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 3,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        }
+      ],
+      "rate": 4
+    },
+    {
+      "id": 3,
+      "title": "Tênis popular 03",
+      "price": 180,
+      "thumb": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_detalhe1.jpg?ts=1612440481?ims=280x280",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 2,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 3,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        }
+      ],
+      "rate": 3.8
+    },
+    {
+      "id": 4,
+      "title": "Tênis popular 04",
+      "price": 229.9,
+      "thumb": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_detalhe1.jpg?ts=1612440481?ims=280x280",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 2,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 3,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        }
+      ],
+      "rate": 4.8
+    },
+    {
+      "id": 5,
+      "title": "Tênis popular 05",
+      "price": 169.9,
+      "thumb": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_detalhe1.jpg?ts=1612440481?ims=280x280",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 2,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 3,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        }
+      ],
+      "rate": 4.2
+    },
+    {
+      "id": 6,
+      "title": "Tênis popular 06",
+      "price": 174.9,
+      "thumb": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_detalhe1.jpg?ts=1612440481?ims=280x280",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 2,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        },
+        {
+          "id": 3,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-attract-se-815-masculino/26/D22-3836-026/D22-3836-026_detalhe1.jpg?ts=1585920125?ims=280x280"
+        }
+      ],
+      "rate": 4
+    }
+  ]
+}
